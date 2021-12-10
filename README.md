@@ -11,7 +11,7 @@ This is the [TCN](https://www.tcn.com)'s [Operator](https://operator.tcn.com) co
 `org user enable` - enable user  
 `org user disable` - disable user  
 `util tz` - list internal timezone ids (to be deprecated)  
-`verion` - print version  
+`version` - print version  
 
 ## Opensource libraries used 
 - https://github.com/mitchellh/go-homedir
