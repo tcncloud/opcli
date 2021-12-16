@@ -9,7 +9,8 @@ This is the [TCN](https://www.tcn.com)'s [Operator](https://operator.tcn.com) co
 `org user list` - list users  
 `org user create` - create a user  
 `org user enable` - enable user  
-`org user disable` - disable user  
+`org user disable` - disable user
+`org user password reset` - force password update at user next login
 `util tz` - list internal timezone ids (to be deprecated)  
 `version` - print version  
 
